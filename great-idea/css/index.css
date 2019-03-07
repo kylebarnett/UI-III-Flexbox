@@ -136,6 +136,7 @@ h1 {
 
 .features-and-about {
 	display: flex;
+	justify-content: space-around;
 }
 
 .middle-img {
