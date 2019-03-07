@@ -137,6 +137,13 @@ h1 {
 .features-and-about {
 	display: flex;
 	justify-content: space-around;
+	margin-top: 25px;
+	margin-bottom: 50px;
+	width: 100%;
+}
+
+.dummy {
+	margin-right: 50px;
 }
 
 .middle-img {
@@ -146,6 +153,7 @@ h1 {
 .services-product-vision {
 	display: flex;
 	margin-bottom: 50px;
+	margin-top: 50px;
 }
 
 footer {

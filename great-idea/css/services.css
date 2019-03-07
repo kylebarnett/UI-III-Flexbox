@@ -177,8 +177,12 @@ button {
   display: flex;
 }
 
+.picture {
+  display: flex;
+}
+
 .services-header-img-2 {
-  width: 35%;
+  width: 15%;
 }
 
 ul li {
